@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecycleMemoApp</string>
+    <string name="setting_menu">設定</string>
 </resources>
